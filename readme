@@ -5,4 +5,3 @@ ffmpeg -i "" -c copy media.mp4
 https://apd-vlive.apdcdn.tc.qq.com/defaultts.tc.qq.com/B_JxNyiJmktHRgresXhfyMetZ3yQvV08eG5zK6IoHPxmR7kPEcLt3XZrKZW1h13HGh/svp_50124/kO98izQhybAcPdwkm9t9T9jP0IYNQWOU9TM4iPxMn93bxfv5pLUTxpLMMLQkAFTn32JdUj21UazAzArjb2TjXXrOWGNIikgtzz5MKiyiY0VJLYqsUETmbHcijUxCdnFz9-_nENPo8YI6qHS5lcn_kWGhdjgS6fexreBYcDAOUlaxizxis4gQsV2FxMKWinfXFr9mIKCCVEhWw_rGwEyt06i0sRsOIxpJBw4Hd9sM63UiA7jSBSB5OA/gzc_1000115_0b53zyaeaaaapyabetjmk5t4ztwdiduaarca.f321003.ts.m3u8?ver=4
 
 
-ffmpeg -i "m3u8網址" -c copy media.mp4
